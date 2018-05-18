@@ -1,0 +1,246 @@
+# Este arquivo viminfo foi gerado pelo Vim 7.3.
+# Você pode editá-lo se for cuidadoso!
+
+# Valor de 'encoding' quando este arquivo foi escrito
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Último padrão de busca :
+~MSle0~/q
+
+# Histórico de Linha de comando (mais recente primeiro):
+:wq!
+:q
+:q!
+:wq
+
+# Histórico de Expressões de busca (mais recente primeiro):
+??q
+
+# Histórico de Expressão (mais recente primeiro):
+
+# Histórico de Linhas de entrada (mais recente primeiro):
+
+# Histórico de Linhas de entrada (mais recente primeiro):
+
+# Registradores:
+""0	LINE	0
+	zone "dexter.com.br" {
+		type master;
+		file "db.dexter";
+		allow-transfer { 192.168.200.130; };
+		notify yes;
+		also-notify { 192.168.200.130; };
+	};
+	
+
+# Marcas nos arquivos:
+'0  3  25  /var/cache/bind/db.dexter
+'1  13  50  /var/cache/bind/db.dexter
+'2  1  0  /etc/resolv.conf
+'3  1  0  ~/dhcpd.conf
+'4  37  36  /etc/dhcp/dhcpd.conf
+'5  38  0  /etc/dhcp/dhcpd.conf
+'6  1  0  /etc/dhcp/dhcpd.conf
+'7  1  0  /var/cache/bind/db.dexter
+'8  33  39  /var/cache/bind/db.mandark
+'9  30  16  /etc/bind/named.conf.local
+
+# Lista de saltos (mais recente primeiro):
+-'  3  25  /var/cache/bind/db.dexter
+-'  1  0  /var/cache/bind/db.dexter
+-'  13  50  /var/cache/bind/db.dexter
+-'  1  0  /etc/resolv.conf
+-'  1  0  ~/dhcpd.conf
+-'  37  36  /etc/dhcp/dhcpd.conf
+-'  1  0  /etc/dhcp/dhcpd.conf
+-'  38  0  /etc/dhcp/dhcpd.conf
+-'  33  39  /var/cache/bind/db.mandark
+-'  1  0  /var/cache/bind/db.mandark
+-'  30  16  /etc/bind/named.conf.local
+-'  1  0  /etc/bind/named.conf.local
+-'  41  0  /etc/bind/named.conf.options
+-'  1  0  /etc/bind/named.conf.options
+-'  27  18  /etc/bind/named.conf.local
+-'  31  1  /etc/bind/named.conf.local
+-'  34  33  /etc/bind/named.conf.options
+-'  19  9  /etc/bind/named.conf.local
+-'  15  1  /etc/bind/named.conf.local
+-'  22  0  /var/cache/bind/db.dexter
+-'  16  0  /etc/bind/named.conf.local
+-'  30  17  ~/dhcp/dhcpd.conf
+-'  1  0  ~/dhcp/dhcpd.conf
+-'  12  31  ~/dns/rev.dexter
+-'  1  0  ~/dns/rev.dexter
+-'  1  0  ~/dns/.rev.dexter.swp
+-'  19  3  ~/dns/db.dexter
+-'  1  0  ~/dns/db.dexter
+-'  19  3  ~/dns/db.dexter
+-'  1  0  ~/dns/db.dexter
+-'  19  3  ~/dns/db.dexter
+-'  1  0  ~/dns/db.dexter
+-'  19  3  ~/dns/db.dexter
+-'  1  0  ~/dns/db.dexter
+-'  1  0  ~/dns/.rev.dexter.swp
+-'  19  3  ~/dns/db.dexter
+-'  1  0  ~/dns/db.dexter
+-'  19  3  ~/dns/db.dexter
+-'  1  0  ~/dns/db.dexter
+-'  19  3  ~/dns/db.dexter
+-'  1  0  ~/dns/db.dexter
+-'  19  3  ~/dns/db.dexter
+-'  1  0  ~/dns/db.dexter
+-'  12  31  ~/dns/rev.dexter
+-'  1  0  ~/dns/rev.dexter
+-'  1  0  ~/dns/.rev.dexter.swp
+-'  19  3  ~/dns/db.dexter
+-'  1  0  ~/dns/db.dexter
+-'  19  3  ~/dns/db.dexter
+-'  1  0  ~/dns/db.dexter
+-'  19  3  ~/dns/db.dexter
+-'  1  0  ~/dns/db.dexter
+-'  19  3  ~/dns/db.dexter
+-'  1  0  ~/dns/db.dexter
+-'  1  0  ~/dns/.rev.dexter.swp
+-'  19  3  ~/dns/db.dexter
+-'  1  0  ~/dns/db.dexter
+-'  19  3  ~/dns/db.dexter
+-'  1  0  ~/dns/db.dexter
+-'  19  3  ~/dns/db.dexter
+-'  1  0  ~/dns/db.dexter
+-'  19  3  ~/dns/db.dexter
+-'  1  0  ~/dns/db.dexter
+-'  30  17  ~/dhcp/dhcpd.conf
+-'  1  0  ~/dhcp/dhcpd.conf
+-'  12  31  ~/dns/rev.dexter
+-'  1  0  ~/dns/rev.dexter
+-'  1  0  ~/dns/.rev.dexter.swp
+-'  19  3  ~/dns/db.dexter
+-'  1  0  ~/dns/db.dexter
+-'  19  3  ~/dns/db.dexter
+-'  1  0  ~/dns/db.dexter
+-'  19  3  ~/dns/db.dexter
+-'  1  0  ~/dns/db.dexter
+-'  19  3  ~/dns/db.dexter
+-'  1  0  ~/dns/db.dexter
+-'  1  0  ~/dns/.rev.dexter.swp
+-'  19  3  ~/dns/db.dexter
+-'  1  0  ~/dns/db.dexter
+-'  19  3  ~/dns/db.dexter
+-'  1  0  ~/dns/db.dexter
+-'  19  3  ~/dns/db.dexter
+-'  1  0  ~/dns/db.dexter
+-'  19  3  ~/dns/db.dexter
+-'  1  0  ~/dns/db.dexter
+-'  12  31  ~/dns/rev.dexter
+-'  1  0  ~/dns/rev.dexter
+-'  1  0  ~/dns/.rev.dexter.swp
+-'  19  3  ~/dns/db.dexter
+-'  1  0  ~/dns/db.dexter
+-'  19  3  ~/dns/db.dexter
+-'  1  0  ~/dns/db.dexter
+-'  19  3  ~/dns/db.dexter
+-'  1  0  ~/dns/db.dexter
+-'  19  3  ~/dns/db.dexter
+-'  1  0  ~/dns/db.dexter
+-'  1  0  ~/dns/.rev.dexter.swp
+
+# Histórico de marcas nos arquivos (mais recente primeiro):
+
+> /var/cache/bind/db.dexter
+	"	3	25
+	^	3	26
+	.	3	25
+	+	3	25
+	+	21	29
+	+	35	0
+	+	34	0
+	+	3	25
+	+	13	50
+	+	3	25
+
+> /etc/resolv.conf
+	"	1	0
+
+> ~/dhcpd.conf
+	"	1	0
+
+> /etc/dhcp/dhcpd.conf
+	"	37	36
+	^	37	37
+	.	37	36
+	+	35	17
+	+	36	0
+	+	37	36
+	+	36	42
+	+	38	0
+	+	37	36
+
+> /var/cache/bind/db.mandark
+	"	33	39
+	^	33	40
+	.	33	39
+	+	2	56
+	+	3	25
+	+	8	50
+	+	22	54
+	+	33	39
+
+> /etc/bind/named.conf.local
+	"	30	16
+	^	30	17
+	.	27	16
+	+	9	22
+	+	10	13
+	+	11	17
+	+	15	2
+	+	12	37
+	+	14	27
+	+	14	33
+	+	17	29
+	+	19	9
+	+	31	1
+	+	27	16
+
+> /etc/bind/named.conf.options
+	"	41	0
+	^	34	34
+	.	34	33
+	+	12	0
+	+	1	11
+	+	5	0
+	+	2	17
+	+	3	10
+	+	5	10
+	+	6	18
+	+	7	12
+	+	36	0
+	+	34	31
+	+	8	0
+	+	9	1
+	+	8	4
+	+	34	33
+
+> ~/dhcp/dhcpd.conf
+	"	30	17
+	^	30	18
+	.	30	17
+	+	30	17
+
+> ~/dns/rev.dexter
+	"	12	31
+	^	12	32
+	.	12	31
+	+	13	31
+	+	12	31
+
+> ~/dns/.rev.dexter.swp
+	"	1	0
+
+> ~/dns/db.dexter
+	"	19	3
+	^	19	4
+	.	19	3
+	+	19	3
